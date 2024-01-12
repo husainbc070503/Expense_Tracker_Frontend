@@ -1,3 +1,9 @@
+# Screenshots
+![Screenshot 2024-01-12 170313](https://github.com/husainbc070503/Expense_Tracker_Frontend/assets/90381568/04018e1b-3575-4702-8162-009be2e04608)
+![Screenshot 2024-01-12 170322](https://github.com/husainbc070503/Expense_Tracker_Frontend/assets/90381568/770f2b87-7de5-4f6d-b714-13f1a8aace2e)
+![Screenshot 2024-01-12 170251](https://github.com/husainbc070503/Expense_Tracker_Frontend/assets/90381568/6bd1b681-a2ec-4148-b03c-23a555f580ab)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
